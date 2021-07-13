@@ -1,2 +1,4 @@
-# HTML_Bootcamp_DIO
-Project of a Instagram login page with CSS and HTML
+# 🏁 HTML_Bootcamp_DIO 📚
+Projects made on Digital Inovation One HTML Bootcamp
+
+☑️ On this second projected, simulated **Instagram's login page**, with some personal touchs on CSS.
